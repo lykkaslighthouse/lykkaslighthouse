@@ -15,6 +15,6 @@ my name is Lykka and I'm a Data Science & Scientific Computing student in German
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning Data Analytics in Python
-- 📫 How to reach me: Instagram: @lykkaslighthouse
+- 📫 How to reach me: Instagram @lykkaslighthouse
 - 😄 Pronouns: she/her
 
